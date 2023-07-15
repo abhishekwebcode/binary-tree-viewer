@@ -32,7 +32,7 @@ function start(){
     
     // drawing the binary tree by using the package from here
     drawBinaryTree(root, document.querySelector('canvas'), {
-        type: VisualizationType.SIMPLE
+        type: VisualizationType.HIGHLIGHT
     });
 
 
